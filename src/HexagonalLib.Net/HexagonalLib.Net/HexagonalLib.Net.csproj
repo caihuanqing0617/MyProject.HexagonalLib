@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <RootNamespace>HexagonalLib</RootNamespace>
-        <TargetFrameworks>net10.0</TargetFrameworks>
+        <TargetFramework>net10.0</TargetFramework>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Title>HexagonalLib</Title>
         <Authors>Ivan Murashka</Authors>
