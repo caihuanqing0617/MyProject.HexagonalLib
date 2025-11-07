@@ -11,13 +11,11 @@
     </PropertyGroup>
 
     <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
-        <OutputPath>..\..\.bin\HexagonalLib.Net\Debug\</OutputPath>
+        <OutputPath>bin\Debug\</OutputPath>
     </PropertyGroup>
 
     <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
-        <OutputPath>..\..\.bin\HexagonalLib.Net\Release\</OutputPath>
+        <OutputPath>bin\Release\</OutputPath>
     </PropertyGroup>
-
-    <Import Project="..\..\HexagonalLib\HexagonalLib.projitems" Label="Shared" />
 
 </Project>

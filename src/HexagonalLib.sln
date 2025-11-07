@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11201.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "HexagonalLib", "HexagonalLib\HexagonalLib.shproj", "{30905D5D-8D2E-4A25-ABEB-B4B4B0C440E6}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HexagonalLib.Unity", "HexagonalLib.Unity", "{C02A807F-4B02-4900-895F-67E25F8CF774}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonalLib.Unity.Tests", "HexagonalLib.Unity\HexagonalLib.Unity.Tests\HexagonalLib.Unity.Tests.csproj", "{1E807875-014C-4745-86AB-E1E35916F8B3}"
@@ -23,8 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{30905D5D-8D2E-4A25-ABEB-B4B4B0C440E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30905D5D-8D2E-4A25-ABEB-B4B4B0C440E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E807875-014C-4745-86AB-E1E35916F8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1E807875-014C-4745-86AB-E1E35916F8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E807875-014C-4745-86AB-E1E35916F8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -52,8 +48,6 @@ Global
 		{CF391253-3550-40CF-810B-A6F8FCA2EBF2} = {1F507917-8D29-4061-BC98-7B64DABADED3}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		HexagonalLib\HexagonalLib.projitems*{30905d5d-8d2e-4a25-abeb-b4b4b0c440e6}*SharedItemsImports = 13
-		HexagonalLib\HexagonalLib.projitems*{cf391253-3550-40cf-810b-a6f8fca2ebf2}*SharedItemsImports = 5
 		HexagonalLib\HexagonalLib.projitems*{ee497232-ac7a-48d0-9059-53b152c6bf01}*SharedItemsImports = 4
 	EndGlobalSection
 EndGlobal
